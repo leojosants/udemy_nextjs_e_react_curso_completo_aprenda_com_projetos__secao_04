@@ -1,0 +1,34 @@
+.box_gift {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.box_cover {
+  width: 100px;
+  height: 25px;
+  background-color: #7AA944;
+}
+
+.box_body {
+  width: 90px;
+  height: 60px;
+  background-color: #5C7E32;
+}
+
+.ribbon_bow_1 {
+  position: absolute;
+  width: 15px;
+  height: 85px;
+  background-color: red;
+}
+
+.ribbon_bow_2 {
+  position: absolute;
+  top: 40px;
+  width: 90px;
+  height: 15px;
+  background-color: red;
+}
